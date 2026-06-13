@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Raushan KUamr 👋
 
 ### 🚀 Aspiring Data Scientist & MCA Student 
 I am currently pursuing my Master of Computer Applications (MCA) with a deep passion for Data Science, Machine Learning, and Artificial Intelligence. I love turning raw data into actionable insights and building intelligent systems.
@@ -6,7 +6,7 @@ I am currently pursuing my Master of Computer Applications (MCA) with a deep pas
 - 🌱 I’m currently learning advanced Deep Learning and MLOps.
 - 👯 I’m looking to collaborate on Open Source projects in Data Science & AI.
 - 💬 Ask me about Python, SQL, Machine Learning, and Data Analysis.
-- 📫 How to reach me: [Your Email] or [Your LinkedIn Profile Link]
+- 📫 How to reach me:raushanraja4590@gmail.com or https://www.linkedin.com/in/raushangupta07/
 
 ---
 
@@ -21,14 +21,3 @@ I am currently pursuing my Master of Computer Applications (MCA) with a deep pas
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react"/>
-</p>
-
----
-
-### 📈 Latest Projects
-- **[Project Name 1]**: Brief description of what this project does and the technologies used.
-- **[Project Name 2]**: Brief description of your data analysis or ML model implementation.
