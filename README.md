@@ -1,4 +1,4 @@
-# Hi there, I'm Raushan KUamr 👋
+# Hi there, I'm Raushan Gupta 👋
 
 ### 🚀 Aspiring Data Scientist & MCA Student 
 I am currently pursuing my Master of Computer Applications (MCA) with a deep passion for Data Science, Machine Learning, and Artificial Intelligence. I love turning raw data into actionable insights and building intelligent systems.
