@@ -47,3 +47,24 @@ I am currently pursuing my Master of Computer Applications (MCA) with a deep pas
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+---
+
+### 📊 My GitHub Contribution Dashboard
+
+<p align="center">
+  <!-- GitHub Trophies Dashboard -->
+  <img src="https://github-profile-trophy.vercel.app/?username=raushangupta007&theme=radical&column=7&margin-w=15&margin-h=15" alt="Raushan's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Total Contributions Summary & Stats -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=raushangupta007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <!-- Detailed Contribution Streak -->
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=raushangupta007&theme=radical"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages Used -->
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushangupta007&layout=compact&theme=radical"/>
+</p>
